@@ -18,3 +18,5 @@ int main() {
 
     return 0;
 }
+
+// izin kak waktu pengupload berbeda karena isi codingan nya salah upload, jadi sudah saya perbaikin, terimakasih kak 
